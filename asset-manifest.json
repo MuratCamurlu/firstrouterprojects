@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/firstrouterprojects/static/css/main.3cfc529a.css",
+    "main.js": "/firstrouterprojects/static/js/main.6ed330f3.js",
+    "static/media/showcase.jpg": "/firstrouterprojects/static/media/showcase.1787af9cb8739b0cc98f.jpg",
+    "static/media/logo_css.png": "/firstrouterprojects/static/media/logo_css.fda2b7505db8ce5ff3ab.png",
+    "static/media/logo_html.png": "/firstrouterprojects/static/media/logo_html.8076298e3862c5885c05.png",
+    "index.html": "/firstrouterprojects/index.html",
+    "main.3cfc529a.css.map": "/firstrouterprojects/static/css/main.3cfc529a.css.map",
+    "main.6ed330f3.js.map": "/firstrouterprojects/static/js/main.6ed330f3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3cfc529a.css",
+    "static/js/main.6ed330f3.js"
+  ]
+}
